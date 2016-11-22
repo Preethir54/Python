@@ -1,0 +1,19 @@
+
+This script takes a file with a list of urls as input and provides the following information as output.
+
+1. Whois information for each url.
+2. IP addresses for each url.
+3. Server information for each url.
+4. Geolocation information for each url.
+
+The program generates three files that contain the above information:
+
+1. A sqlite database file.
+2. An excel sheet report file.
+3. kml file containing the geolocation information.
+
+Requirements to run the program:
+
+The url file must be in the same directory as the program and a database is required to be installed to find the geolocation information and can be found at the following location.
+
+https://dev.maxmind.com/geoip/legacy/geolite/
