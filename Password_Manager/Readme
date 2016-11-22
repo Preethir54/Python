@@ -1,0 +1,5 @@
+Contains the python implementation for a command line passsword manager and the configuration file to have the necessary configurations made to the system before running the script.
+
+How to run the script:
+1. Run the Password_manager_configuration_file.py first.
+2. Then run the Password_manager script.
